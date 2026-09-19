@@ -1,0 +1,4 @@
+Rows: 891
+Missing values before cleaning: 866; after cleaning: 0.
+Survival rate — female: 74.2%; male: 18.9%.
+Survival rate — class 1: 63.0%; class 3: 24.2%.
